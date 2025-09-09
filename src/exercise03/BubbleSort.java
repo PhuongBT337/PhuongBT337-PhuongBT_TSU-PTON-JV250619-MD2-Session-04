@@ -12,6 +12,7 @@ public class BubbleSort {
                     swapped = true;
                 }
             }
+            //Nếu không còn sự hoán đổi nào nữa thì sẽ kết thúc
             if (!swapped) break;
         }
     }
